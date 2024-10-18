@@ -1,0 +1,19 @@
+{
+    "name": "Finbot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "https://localhost:3978/api/messages",
+            "id": "64eb9370-7199-11ef-b2e3-0f6fe07fc30f",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "https://localhost:3978/api/messages",
+            "channelService": ""
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\nepal\\OneDrive\\Dokumenter\\Finbot.bot",
+    "overrides": null
+}
